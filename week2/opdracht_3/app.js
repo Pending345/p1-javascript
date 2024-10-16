@@ -3,3 +3,5 @@ function kleur_aanpassen() {
     document.getElementById('title').innerText = "Inhoud aangepast!"
 
 }
+
+kleur_aanpassen();
